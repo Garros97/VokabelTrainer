@@ -1,0 +1,194 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.voctrainer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:5:5-79
+11-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:6:5-81
+12-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:7:5-67
+13-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:7:22-64
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:8:5-79
+14-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.VIBRATE" />
+15-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:9:5-66
+15-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:9:22-63
+16
+17    <uses-feature
+17-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\garro\.gradle\caches\transforms-3\075522a55ae82583a7d3b553bb99993c\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+18        android:glEsVersion="0x00020000"
+18-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\garro\.gradle\caches\transforms-3\075522a55ae82583a7d3b553bb99993c\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+19        android:required="true" />
+19-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\garro\.gradle\caches\transforms-3\075522a55ae82583a7d3b553bb99993c\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+20
+21    <application
+21-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:11:5-66:19
+22        android:allowBackup="true"
+22-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:12:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.7.0] C:\Users\garro\.gradle\caches\transforms-3\21249a56641fb0309777a5ae16ce99ff\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:icon="@mipmap/ic_launcher_app_voctrainer"
+26-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:13:9-58
+27        android:label="@string/app_name"
+27-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:14:9-41
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:15:9-54
+29        android:supportsRtl="true"
+29-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:16:9-35
+30        android:testOnly="true"
+31        android:theme="@style/AppTheme" >
+31-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:17:9-40
+32        <meta-data
+32-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:19:9-21:55
+33            android:name="com.google.android.geo.API_KEY"
+33-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:20:13-58
+34            android:value="@string/google_maps_key" />
+34-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:21:13-52
+35
+36        <activity
+36-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:23:9-25:40
+37            android:name="com.voctrainer.Help"
+37-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:24:13-33
+38            android:exported="false" />
+38-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:25:13-37
+39        <activity
+39-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:26:9-28:40
+40            android:name="com.voctrainer.Quiz"
+40-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:27:13-33
+41            android:exported="false" />
+41-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:28:13-37
+42        <activity
+42-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:29:9-31:40
+43            android:name="com.voctrainer.Result"
+43-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:30:13-35
+44            android:exported="false" />
+44-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:31:13-37
+45        <activity
+45-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:32:9-34:40
+46            android:name="com.voctrainer.MovingCounter"
+46-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:33:13-42
+47            android:exported="false" />
+47-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:34:13-37
+48        <activity
+48-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:35:9-37:40
+49            android:name="com.voctrainer.Congratulation"
+49-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:36:13-43
+50            android:exported="false" />
+50-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:37:13-37
+51        <activity
+51-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:38:9-40:40
+52            android:name="com.voctrainer.Correction"
+52-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:39:13-39
+53            android:exported="false" />
+53-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:40:13-37
+54        <activity
+54-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:41:9-43:40
+55            android:name="com.voctrainer.LevelSelection"
+55-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:42:13-43
+56            android:exported="false" />
+56-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:43:13-37
+57        <activity
+57-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:44:9-46:40
+58            android:name="com.voctrainer.ViewSteps"
+58-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:45:13-38
+59            android:exported="false" />
+59-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:46:13-37
+60        <activity
+60-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:47:9-49:40
+61            android:name="com.voctrainer.VocabularyView"
+61-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:48:13-43
+62            android:exported="false" />
+62-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:49:13-37
+63        <activity
+63-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:50:9-52:40
+64            android:name="com.voctrainer.ProgressView"
+64-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:51:13-41
+65            android:exported="false" />
+65-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:52:13-37
+66        <activity
+66-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:53:9-56:47
+67            android:name="com.voctrainer.GeoMap"
+67-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:54:13-35
+68            android:exported="false"
+68-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:55:13-37
+69            android:label="@string/app_name" />
+69-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:56:13-45
+70        <activity
+70-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:57:9-65:20
+71            android:name="com.voctrainer.MainActivity"
+71-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:58:13-41
+72            android:exported="true" >
+72-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:59:13-36
+73            <intent-filter>
+73-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:60:13-64:29
+74                <action android:name="android.intent.action.MAIN" />
+74-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:61:17-69
+74-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:61:25-66
+75
+76                <category android:name="android.intent.category.LAUNCHER" />
+76-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:63:17-77
+76-->D:\PROJEKTE\VOC_TRAINER\Vokabel_Trainer\VocTrainer\app\src\main\AndroidManifest.xml:63:27-74
+77            </intent-filter>
+78        </activity>
+79        <!-- Needs to be explicitly declared on P+ -->
+80        <uses-library
+80-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\garro\.gradle\caches\transforms-3\075522a55ae82583a7d3b553bb99993c\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+81            android:name="org.apache.http.legacy"
+81-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\garro\.gradle\caches\transforms-3\075522a55ae82583a7d3b553bb99993c\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+82            android:required="false" />
+82-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\garro\.gradle\caches\transforms-3\075522a55ae82583a7d3b553bb99993c\transformed\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+83
+84        <activity
+84-->[com.google.android.gms:play-services-base:18.0.0] C:\Users\garro\.gradle\caches\transforms-3\85eda648ec6905188170f5b47d36f171\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:20:9-22:45
+85            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+85-->[com.google.android.gms:play-services-base:18.0.0] C:\Users\garro\.gradle\caches\transforms-3\85eda648ec6905188170f5b47d36f171\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:20:19-85
+86            android:exported="false"
+86-->[com.google.android.gms:play-services-base:18.0.0] C:\Users\garro\.gradle\caches\transforms-3\85eda648ec6905188170f5b47d36f171\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:22:19-43
+87            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+87-->[com.google.android.gms:play-services-base:18.0.0] C:\Users\garro\.gradle\caches\transforms-3\85eda648ec6905188170f5b47d36f171\transformed\jetified-play-services-base-18.0.0\AndroidManifest.xml:21:19-78
+88
+89        <meta-data
+89-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\garro\.gradle\caches\transforms-3\4065ffa9f933b654ef0b655a200e3015\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+90            android:name="com.google.android.gms.version"
+90-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\garro\.gradle\caches\transforms-3\4065ffa9f933b654ef0b655a200e3015\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+91            android:value="@integer/google_play_services_version" />
+91-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\garro\.gradle\caches\transforms-3\4065ffa9f933b654ef0b655a200e3015\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+92
+93        <provider
+93-->[androidx.emoji2:emoji2:1.0.0] C:\Users\garro\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+94            android:name="androidx.startup.InitializationProvider"
+94-->[androidx.emoji2:emoji2:1.0.0] C:\Users\garro\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+95            android:authorities="com.voctrainer.androidx-startup"
+95-->[androidx.emoji2:emoji2:1.0.0] C:\Users\garro\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+96            android:exported="false" >
+96-->[androidx.emoji2:emoji2:1.0.0] C:\Users\garro\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+97            <meta-data
+97-->[androidx.emoji2:emoji2:1.0.0] C:\Users\garro\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+98                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+98-->[androidx.emoji2:emoji2:1.0.0] C:\Users\garro\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+99                android:value="androidx.startup" />
+99-->[androidx.emoji2:emoji2:1.0.0] C:\Users\garro\.gradle\caches\transforms-3\beb1e8c1d1724370afa1be71eb324942\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+100            <meta-data
+100-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\garro\.gradle\caches\transforms-3\4d87c3e3b70abeed5e61faf08f3b9b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+101                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+101-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\garro\.gradle\caches\transforms-3\4d87c3e3b70abeed5e61faf08f3b9b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+102                android:value="androidx.startup" />
+102-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\garro\.gradle\caches\transforms-3\4d87c3e3b70abeed5e61faf08f3b9b5b\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+103        </provider>
+104    </application>
+105
+106</manifest>

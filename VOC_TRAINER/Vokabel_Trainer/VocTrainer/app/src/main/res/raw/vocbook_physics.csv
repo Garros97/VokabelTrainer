@@ -1,0 +1,124 @@
+0;vocabulary;correct;wrong1;wrong2
+1;Erdbeschleunigung;Acceleration of gravity;Angular motion ;Reflection 
+1;Beschleuniger;Accelerator ;Angular velocity;Refraction
+1;Akkumulation;Accumulation;Anharmonic ;Relativity
+1;Akku;Accumulator;Anharmonic oscillator;Spectrum
+1;Azentrisch;Acentric;Annihilation ;Speed
+1;Aktion;Action;Anti;Superconductivity 
+1;Aktions-Reaktions-Gesetz;Action-reaction law ;Astrophysics ;Symmetry 
+1;Aktivität;Activity;Atom;Synchronisation
+1;Aktivitätskoeffizient;Activity coefficient;Axiom ;System 
+1;Aerophysik;Aerophysics ;background;Tensor
+1;Aggregat;Aggregate;background activity ;temperature
+1;Alpha;Alpha;background radiation ;Torsion
+1;Alphazerfall;Alpha decay;balance;Trajectory
+1;Alpha-Emission;Alpha emission ;battery ;Translucent 
+1;Alpha-Partikelstreuung;Alpha particle scattering ;beam;Terrestrial Gravity
+1;Ampere;Ampere ;beta decay;Total Internal Reflection 
+1;Amperegesetz;Ampere law ;beta ray ;Velocity
+1;Amperometer;Amperometer;beta ray spectromett;Virtual 
+1;Verstärken;Amplify ;Angular acceleration ;Viscosity 
+1;Amplitude;Amplitude;biophysics ;Vortex 
+1;Winkel;Angle ;black-body radiation;Vacuum
+1;Eckig;Angular;black hole ;Voltage
+1;Winkelbeschleunigung;Angular acceleration ;Bohr magneton ;wave
+1;Drehimpuls;Angular momentum;Collider ;Work
+1;Winkelbewegung;Angular motion ;Covariance ;watt
+1;Winkelgeschwindigkeit;Angular velocity;Concave ;Momentum 
+1;Anharmonische;Anharmonic ;Convex ;Notation
+1;Anharmonischer Oszillator;Anharmonic oscillator;Dynamic;natural radiation
+1;Vernichtung;Annihilation ;Distortion;Nebulae
+1;Strahlung;radiation;Diffraction;Orbit
+1;Astrophysik;Astrophysics ;Electricity;Oscillate
+1;Atom;Atom;Elasticity ;Optics
+1;Axiom;Axiom ;Electromagnetic ;Particle
+1;Hintergrund;background;Electromagnetic Field;Photon
+1;Hintergrundaktivität;background activity ;Elasticity ;Plasma 
+1;Hintergrundstrahlung;background radiation ;Force;Position 
+1;Gleichgewicht;balance;Fusion ;Potential Energy
+1;Batterie;battery ;Frequency ;Quark 
+1;Strahl;beam;gravitation;Quanta
+2;Betazerfall;beta decay;Gravity ;Radiation
+2;Betastrahl;beta ray ;Hadron;Reference 
+2;Betastrahlenspektrometer;beta ray spectromett;Harmonic;Reference system
+2;Biophysik;biophysics ;Inertia ;infrasound
+2;Schwarzkörperstrahlung;black-body radiation;isotopes;Kinetic Theory of Gases
+2;schwarzes Loch;black hole ;Radioisotopes;Latitude 
+2;Bohr-Magneton;Bohr magneton ;Joule;Lens 
+2;Collider;Collider ;Kinetic Energy;Lepton 
+2;Kovarianz;Covariance ;Kinetics;Level 
+2;Konkav ;Concave ;Kinetic Theory of Gases;Light
+2;Konvex;Convex ;Latitude ;Accumulator
+2;Dynamisch;Dynamic;Lens ;Acentric
+2;Verzerrung;Distortion;Lepton ;Action
+2;Beugung;Diffraction;Level ;Action-reaction law 
+2;Elektrizität;Electricity;Light;Activity
+2;Elastizität;Elasticity ;Linear;Activity coefficient
+2;Elektromagnetisch;Electromagnetic ;Longitude;Aerophysics 
+2;Elektromagnetisches Feld;Electromagnetic Field;Luminescent;Aggregate
+2;Gewalt;Force;Magnetic ;Alpha
+2;Verschmelzung;Fusion ;Manometer;Alpha decay
+2;Fusion;Fusion ;Molecule ;Alpha emission 
+2;Frequenz;Frequency ;Moment ;Alpha particle scattering 
+2;Gravitation;gravitation;Momentum ;Ampere 
+2;Schwere;Gravity ;Notation;Ampere law 
+2;Hadron;Hadron;natural radiation;Amperometer
+2;Harmonische;Harmonic;Nebulae;Amplify 
+2;Trägheit;Inertia ;Orbit;Amplitude
+2;Infrasound;Infrasound;Oscillate;Angle 
+2;Isotope;isotopes;Optics;Angular
+2;Radioisotope;Radioisotopes;Particle;Angular acceleration 
+2;Joule;Joule;Photon;Angular momentum
+2;Kinetische Energie;Kinetic Energy;Plasma ;Angular motion 
+2;Kinetik;Kinetics;Position ;Angular velocity
+2;Kinetische Theorie der Gase;Kinetic Theory of Gases;Potential Energy;Anharmonic 
+2;Breite;Latitude ;Quark ;Anharmonic oscillator
+2;Objektiv;Lens ;Quanta;Annihilation 
+2;Lepton;Lepton ;Radiation;Anti
+2;Eben;Level ;Reference ;Astrophysics 
+2;Hell;Light;Reference system;Atom
+2;Linear;Linear;Reflection ;Axiom 
+2;Längengrad;Longitude;Refraction;background
+3;Lumineszierend;Luminescent;Relativity;background activity 
+3;Magnetisch;Magnetic ;Spectrum;background radiation 
+3;Manometer;Manometer;Speed;balance
+3;Molekül;Molecule ;Elasticity ;battery 
+3;Moment;Moment ;Electromagnetic ;beam
+3;Schwung;Momentum ;Electromagnetic Field;beta decay
+3;Notation;Notation;Electromagnetic ;beta ray 
+3;natürliche Strahlung;natural radiation;Force;beta ray spectromett
+3;Nebel;Nebulae;Fusion ;beta decay
+3;Umlaufbahn;Orbit;Frequency ;biophysics 
+3;Oszillieren;Oscillate;gravitation;black-body radiation
+3;Optik;Optics;Gravity ;black hole 
+3;Partikel;Particle;Hadron;Bohr magneton 
+3;Photonen;Photon;Harmonic;Collider 
+3;Plasma;Plasma ;Inertia ;Covariance 
+3;Position;Position ;Infrasound;Concave 
+3;Potenzielle Energie;Potential Energy;isotopes;Convex 
+3;Quark;Quark ;Radioisotopes;Dynamic
+3;Quanten;Quanta;Joule;Distortion
+3;Strahlung;Radiation;Kinetic Energy;Diffraction
+3;Bezug;Reference ;Kinetics;Electricity
+3;Referenzsystem;Reference system;Kinetic Theory of Gases;Elasticity 
+3;Betrachtung;Reflection ;Latitude ;Magnetic 
+3;Brechung;Refraction;Lens ;Manometer
+3;Relativität;Relativity;Lepton ;Molecule 
+3;Spektrum;Spectrum;Level ;Moment 
+3;Geschwindigkeit;Speed;Light;Momentum 
+3;Supraleitung;Superconductivity ;Linear;Notation
+3;Symmetrie;Symmetry ;Longitude;natural radiation
+3;Synchronisation;Synchronisation;Luminescent;Nebulae
+3;System;System ;Magnetic ;Orbit
+3;Tensor;Tensor;Optics;Oscillate
+3;Temperatur;temperature;Particle;Optics
+3;Drehung;Torsion;Photon;Particle
+3;Flugbahn;Trajectory;Plasma ;Photon
+3;Durchscheinend;Translucent ;Position ;Plasma 
+3;Terrestrische Schwerkraft;Terrestrial Gravity;Potential Energy;Position 
+3;Totale interne Reflexion;Total Internal Reflection ;Quark ;Potential Energy
+3;Geschwindigkeit;Velocity;Quanta;Quark 
+3;Virtuell;Virtual ;Radiation;Quanta
+3;Viskosität;Viscosity ;Reference ;Radiation
+3;Wirbel;Vortex ;Reference system;Reference 
+3;Vakuum;Vacuum;Reflection ;Reference system

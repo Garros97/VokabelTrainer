@@ -1,0 +1,87 @@
+0;vocabulary;correct;wrong1;wrong2
+1;Batterie;Battery;Earth station;Nuclear energy plant
+1;Luftspalt;Air Gap;Electromagnetic theory;Operating switch
+1;Wechselstrom;Alternating Current;Discharging;Ohmic loss
+1;Amperemeter;Ammeter;Depth of modulation;Ohmmeter
+1;Barrierespannung;Barrier voltage;Control devices;Conservation of charge
+1;Trägerwellen;Carrier waves;Backward connection;One way circuit
+1;Ladungserhaltung;Conservation of charge;Autotransformer;On-Off switch
+1;Umlenkplatten;Deflection plates;Amplitude Modulation;Over-head-transmission-line
+1;Wellenteilchentheorie;Wave particle theory;Acid solution;Carrier waves
+1;Videoverstärker;Video amplifier;Base solution;Conservation of charge
+1;Verkürzungskondensator;Shortening capacitor;Carrier waves;Deflection plates
+1;Repeater-Station;Repeater station;Cathode ray tube;Wave particle theory
+1;Pulsamplitude;Pulse amplitude;Electrolytic;Carrier waves
+1;Positives Feedback;Positive feed back;Electronic counter measures;Conservation of charge
+1;Mehrfachzugriffstechnik;Multiple access technique;Frequency characteristic;Deflection plates
+1;Mehrfachziel;Multi destination;Full wave rectifier;Wave particle theory
+1;Verlängerungsspulen;Lengthening coils;Magnetic poles;Video amplifier
+1;Viertelwellendipol;Quarter wave dipole;Power supply circuit;Shortening capacitor
+1;Signalkorps;Signal corps;Resonance circuit;Repeater station
+1;Thermistor;Thermistor;Sweep voltage;Positive feed back
+1;Triggerimpuls;Trigger pulse;Made circuit;Multiple access technique
+1;Voltmeter;Voltmeter;Magneto generator;Multi destination
+1;Oberes Seitenband;Upper side band;Middle wire;Lengthening coils
+1;Transistor;Transistor;Mixed -flow turbine;Quarter wave dipole
+1;Radiowelle;Radio wave;Moving iron ammeter;Signal corps
+1;Leiter;Printed circuit;Multiple connection;Amplitude Modulation
+1;Positives Ion;Positive ion;Multiway switch;Thermistor
+1;Multiplikatorwiderstand;Multiplier resistance;Murray loop test;Trigger pulse
+1;Passender Transformator;Matching transformer;Natural rectifier;Voltmeter
+2;Erdstation;Earth station;Neutral conductor;Upper side band
+2;Elektromagnetische Theorie;Electromagnetic theory;Ni -Fe battery;Transistor
+2;Entladen;Discharging;Nuclear energy plant;Radio wave
+2;Modulationstiefe;Depth of modulation;Shortening capacitor;Printed circuit
+2;Steuergeräte;Control devices;Repeater station;Positive ion
+2;Rückwärtsverbindung;Backward connection;Pulse amplitude;Multiplier resistance
+2;Spartransformator;Autotransformer;Positive feed back;Matching transformer
+2;Amplitudenmodulation;Amplitude Modulation;Multiple access technique;Earth station
+2;Säurelösung;Acid solution;Multi destination;Electromagnetic theory
+2;Basislösung;Base solution;Lengthening coils;Discharging
+2;Trägerwellen;Carrier waves;Quarter wave dipole;Depth of modulation
+2;Kathodenstrahlröhre;Cathode ray tube;Signal corps;Control devices
+2;Elektrolyt;Electrolytic;Amplitude Modulation;Backward connection
+2;Elektronische Gegenmaßnahmen;Electronic counter measures;Thermistor;Autotransformer
+2;Frequenzcharakteristik;Frequency characteristic;Trigger pulse;Amplitude Modulation
+2;Vollwellengleichrichter;Full wave rectifier;Voltmeter;Acid solution
+2;Magnetpole;Magnetic poles;Upper side band;Base solution
+2;Stromversorgungskreis;Power supply circuit;Transistor;Carrier waves
+2;Resonanzkreis;Resonance circuit;Radio wave;Cathode ray tube
+2;Halbleiter;Semiconductor;Backward connection;Electrolytic
+2;Sweep-Spannung;Sweep voltage;Autotransformer;Electronic  counter measures
+2;Runde gemacht;Made circuit;Amplitude Modulation;Frequency characteristic
+2;Magnetgenerator;Magneto generator;Acid solution;Full wave rectifier
+2;Mittlerer Draht;Middle wire;Base solution;Magnetic poles
+2;Mischstromturbine;Mixed -flow turbine;Carrier waves;Power supply circuit
+2;Dreheisen-Amperemeter;Moving iron ammeter;Cathode ray tube;Resonance circuit
+2;Mehrfachverbindung;Multiple connection;Electrolytic;Semiconductor
+2;Mehrwegeschalter;Multi -way switch;Electronic counter measures;Sweep voltage
+3;Murray-Schleifentest;Murray loop test;Frequency characteristic;Made circuit
+3;Natürlicher Gleichrichter;Natural rectifier;Full wave rectifier;Magneto generator
+3;Neutralleiter;Neutral conductor;Magnetic poles;Middle wire
+3;Ni-Fe-Batterie;Ni -Fe battery;Power supply circuit;Mixed -flow turbine
+3;Kernkraftwerk;Nuclear energy plant;Resonance circuit;Moving iron ammeter
+3;Betriebsschalter;Operating switch;Semiconductor;Multiple connection
+3;Ohmscher Verlust;Ohmic loss;Ammeter;Multi -way switch
+3;Ohmmeter;Ohmmeter;Barrier voltage;Murray loop test
+3;Einbahnstraße;One way circuit;Conservation of charge;Neutral conductor
+3;Ein-Aus Schalter;On-Off switch;Deflection plates;Ni -Fe battery
+3;Freileitung – Leitung;Over head transmission – line;Wave particle theory;Nuclear energy plant
+3;Passives Netzwerk;Passive network;Video amplifier;Cathode ray tube
+3;Fotoelektrisches System;Photoelectric system;Shortening capacitor;Electrolytic
+3;Polarkontakt;Polar contact;Repeater station;Electronic counter measures
+3;Quad-Kabel;Quad cable;Pulse amplitude;Frequency characteristic
+3;Sekundärbelastung;Secondary burden;Positive feed back;Full wave rectifier
+3;Schnappschalter;Snap switch;Multiple access technique;Magnetic poles
+3;Spezifischer Widerstand;Specific resistance;Multi destination;Power supply circuit
+3;Standardampere;Standard ampere;Lengthening coils;Resonance circuit
+3;Speicherzelle;Storage cell;Quarter wave dipole;Semiconductor
+3;Zweipoliger Stecker;Two -pin plug;Signal corps;Sweep voltage
+3;Zweileitersystem;Two -wire system;Amplitude Modulation;Made circuit
+3;Schwingkondensator;Vibrating capacitor;Thermistor;Magneto generator
+3;Wellengleichrichter;Wave rectifier;Voltmeter;Mixed -flow turbine
+3;Schweißlichtbogen;Welding arc;Upper side band;Moving iron ammeter
+3;Nassbatterie;Wet battery;Transistor;Multiple connection
+3;Draht-Skinner;Wire skinner;Radio wave;Multi -way switch
+3;Sternverbindung;Wye connection;Printed circuit;Murray loop test
+3;Nullpotential;Zero potential;Positive ion;Natural rectifier

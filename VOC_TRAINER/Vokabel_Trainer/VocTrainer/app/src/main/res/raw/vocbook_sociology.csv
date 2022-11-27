@@ -1,0 +1,81 @@
+0;vocabulary;correct;wrong1;wrong2
+1;soziale Einrichtung;social institution;social cycle;Social Learning
+1;soziale Mobilität;social mobility;socialism;Critical
+1;soziale Bewegung;social movement;social environment;Social Progress
+1;soziale Organisation;social organization;social evolution;Social Movements
+1;soziale Interaktion;social interaction;social fact;Ideology
+1;soziale Macht;social power;social groups;Social Control
+1;soziale Position;social position;social informatics;Social Class
+1;Sozialer Fortschritt;social progress;social interaction;Social Interaction
+1;Sozialpsychologie;social psychology;social mobility;Social Mobility
+1;soziale Beziehung;social relation;social organisation;Social Stratification
+1;sozialer Wandel;social change;sociological perspective;Socialization
+1;Sozialer Kreis;social circle;social position;Customs and Traditions
+1;Gesellschaftsklasse;social class;social power;Social Planning
+1;sozialer Konflikt;social conflict;social progress;Liberalism
+1;soziales Umfeld;social environment;social psychology;Capitalism
+1;gesellschaftliche Entwicklung;social development;social relation;Social Security
+1;Gesellschaftsvertrag;social contract;social reproduction;Democracy
+1;sozialer Kontakt;social contact;social role;Social Deviance
+1;soziale Kontrolle;social control;social status;Bureaucracy
+1;sozialer Kreislauf;social cycle;Social Deviance;Social Consciousness
+1;Sozialismus;socialism;Bureaucracy;Political Elite
+1;soziologische Vorstellung;sociological imagination;Socialization;social role
+1;Sozialisation;socialization;Customs and Traditions;social action
+1;Soziologie des Körpers;sociology of the body;Social Planning;social behavior
+1;Soziobiologie;sociobiology;Liberalism;social change
+1;Wissenssoziologie;sociology of knowledge;Capitalism;social circle
+1;Symbolische Interaktionstheorie;Symbolic Interaction Theory;Social Security;social class
+1;Sozialer Austausch;Social exchange;Democracy;social conflict
+1;Strukturelle Dehnung;Structural Strain;Social Deviance;social contact
+2;Soziobiologie;Sociobiology;Bureaucracy;social contract
+2;Soziales Lernen;Social Learning;Social Consciousness;social control
+2;Kritisch;Critical;Political Elite;social cycle
+2;Sozialer Fortschritt;Social Progress;social movement;social development
+2;Soziale Bewegungen;Social Movements;social organization;social environment
+2;Ideologie;Ideology;social interaction;social evolution
+2;Soziale Kontrolle;Social Control;social power;social fact
+2;Gesellschaftsklasse;Social Class;social position;social groups
+2;Soziale Interaktion;Social Interaction;social progress;social informatics
+2;Soziale Mobilität;Social Mobility;social psychology;social interaction
+2;Soziale Schichtung;Social Stratification;social relation;social mobility
+2;Sozialisation;Socialization;social change;social organisation
+2;Bräuche und Traditionen;Customs and Traditions;social circle;sociological perspective
+2;Sozialplanung;Social Planning;social class;social position
+2;Liberalismus;Liberalism;social conflict;social power
+2;Kapitalismus;Capitalism;social environment;social progress
+2;Sozialversicherung;Social Security;social development;social psychology
+2;Demokratie;Democracy;social contract;social relation
+2;Soziale Abweichung;Social Deviance;social contact;social reproduction
+2;Bürokratie;Bureaucracy;social control;social role
+2;Soziales Bewusstsein;Social Consciousness;social status;social status
+2;Politische Elite;Political Elite;socialization;social institution
+2;soziale Aktion;social action;sociological perspective;social organization
+2;soziales Verhalten;social behavior;social position;social interaction
+2;sozialer Wandel;social change;social power;social power
+3;Sozialer Kreis;social circle;social progress;social position
+3;Gesellschaftsklasse;social class;social psychology;social progress
+3;sozialer Konflikt;social conflict;social relation;social psychology
+3;sozialer Kontakt;social contact;social reproduction;social relation
+3;Gesellschaftsvertrag;social contract;social role;social change
+3;soziale Kontrolle;social control;social status;social circle
+3;sozialer Kreislauf;social cycle;socialization;social class
+3;gesellschaftliche Entwicklung;social development;Social Deviance;social conflict
+3;soziales Umfeld;social environment;Bureaucracy;social environment
+3;soziale Entwicklung;social evolution;Social Consciousness;social development
+3;soziale Tatsache;social fact;Political Elite;social contract
+3;soziale Gruppen;social groups;social action;social contact
+3;Sozialinformatik;social informatics;social behavior;social control
+3;soziale Interaktion;social interaction;social change;social cycle
+3;soziale Mobilität;social mobility;social circle;socialism
+3;soziale Organisation;social organisation;social class;social role
+3;soziologische Perspektive;sociological perspective;social conflict;social status
+3;soziale Position;social position;social contact;socialization
+3;soziale Macht;social power;social contract;Social Deviance
+3;Sozialer Fortschritt;social progress;social control;Bureaucracy
+3;Sozialpsychologie;social psychology;social cycle;Social Consciousness
+3;soziale Beziehung;social relation;social development;social contact
+3;soziale Reproduktion;social reproduction;social environment;Social exchange
+3;soziale Rolle;social role;social evolution;Structural Strain
+3;sozialer Status;social status;social position;Sociobiology
+3;Sozialisation;socialization;social power;Social Learning

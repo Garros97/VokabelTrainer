@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_gui5_level_selection.xml",
+        "source": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\src\\main\\res\\layout\\activity_gui5_level_selection.xml"
+    },
+    {
+        "merged": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_gui6_vocabulary_view.xml",
+        "source": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\src\\main\\res\\layout\\activity_gui6_vocabulary_view.xml"
+    },
+    {
+        "merged": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_gui10_quiz.xml",
+        "source": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\src\\main\\res\\layout\\activity_gui10_quiz.xml"
+    },
+    {
+        "merged": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_gui4_geo_map.xml",
+        "source": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\src\\main\\res\\layout\\activity_gui4_geo_map.xml"
+    },
+    {
+        "merged": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_gui13_result.xml",
+        "source": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\src\\main\\res\\layout\\activity_gui13_result.xml"
+    },
+    {
+        "merged": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_gui1a_help.xml",
+        "source": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\src\\main\\res\\layout\\activity_gui1a_help.xml"
+    },
+    {
+        "merged": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_gui3_view_steps.xml",
+        "source": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\src\\main\\res\\layout\\activity_gui3_view_steps.xml"
+    },
+    {
+        "merged": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_gui2_moving_counter.xml",
+        "source": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\src\\main\\res\\layout\\activity_gui2_moving_counter.xml"
+    },
+    {
+        "merged": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_gui9_progress_view.xml",
+        "source": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\src\\main\\res\\layout\\activity_gui9_progress_view.xml"
+    },
+    {
+        "merged": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_gui_15_correction.xml",
+        "source": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\src\\main\\res\\layout\\activity_gui_15_correction.xml"
+    },
+    {
+        "merged": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_gui14_congratulation.xml",
+        "source": "D:\\PROJEKTE\\VOC_TRAINER\\Vokabel_Trainer\\VocTrainer\\app\\src\\main\\res\\layout\\activity_gui14_congratulation.xml"
+    }
+]

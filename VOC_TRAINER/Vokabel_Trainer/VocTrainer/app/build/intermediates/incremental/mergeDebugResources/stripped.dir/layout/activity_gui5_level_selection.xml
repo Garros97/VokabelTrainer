@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".LevelSelection">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="5dp"
+        android:text="Fachgebiet"
+        android:textColor="#103895"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageRank" />
+
+    <TextView
+        android:id="@+id/textView_Area"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="5dp"
+        android:text="No Are found"
+        android:textColor="#121315"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+    <Button
+        android:id="@+id/button_newArea"
+        android:layout_width="230dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/button_bg_round"
+        android:text="Anderes Fachgebiet finden"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_level3" />
+
+    <ImageView
+        android:id="@+id/lock1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="50dp"
+        android:src="@drawable/lockc"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/button_level1"
+        app:layout_constraintTop_toBottomOf="@+id/textView_Area" />
+
+    <ImageView
+        android:id="@+id/lock2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="50dp"
+        android:src="@drawable/lockc"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/button_level2"
+        app:layout_constraintTop_toBottomOf="@+id/lock1" />
+
+    <ImageView
+        android:id="@+id/lock3"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="50dp"
+        android:src="@drawable/lockc"
+        android:visibility="visible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/button_level3"
+        app:layout_constraintTop_toBottomOf="@+id/lock2" />
+
+    <ImageView
+        android:id="@+id/icon1"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="5dp"
+        android:soundEffectsEnabled="false"
+        android:visibility="visible"
+        app:layout_constraintEnd_toStartOf="@+id/button_level1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView_Area" />
+
+    <ImageView
+        android:id="@+id/icon2"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="5dp"
+        android:visibility="visible"
+        app:layout_constraintEnd_toStartOf="@+id/button_level2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/icon1" />
+
+    <ImageView
+        android:id="@+id/icon3"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="5dp"
+        android:visibility="visible"
+        app:layout_constraintEnd_toStartOf="@+id/button_level3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/icon2" />
+
+    <Button
+        android:id="@+id/button_level1"
+        android:layout_width="130dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="5dp"
+        android:background="@drawable/button_bg_round_unclickable"
+        android:text="level 1"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toStartOf="@+id/lock1"
+        app:layout_constraintStart_toEndOf="@+id/icon1"
+        app:layout_constraintTop_toBottomOf="@+id/textView_Area" />
+
+    <Button
+        android:id="@+id/button_level2"
+        android:layout_width="130dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="5dp"
+        android:background="@drawable/button_bg_round_unclickable"
+        android:text="Level 2"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toStartOf="@+id/lock2"
+        app:layout_constraintStart_toEndOf="@+id/icon2"
+        app:layout_constraintTop_toBottomOf="@+id/button_level1" />
+
+    <Button
+        android:id="@+id/button_level3"
+        android:layout_width="130dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="5dp"
+        android:background="@drawable/button_bg_round_unclickable"
+        android:text="Level 3"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toStartOf="@+id/lock3"
+        app:layout_constraintStart_toEndOf="@+id/icon3"
+        app:layout_constraintTop_toBottomOf="@+id/button_level2" />
+
+    <ImageView
+        android:id="@+id/imageRank"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/marker_area_grey" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

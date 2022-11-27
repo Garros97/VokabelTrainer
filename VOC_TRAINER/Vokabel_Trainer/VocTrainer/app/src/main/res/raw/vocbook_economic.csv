@@ -1,0 +1,123 @@
+0;vocabulary;correct;wrong1;wrong2
+1;Globalisierung;Globalization;Net exports;Real income
+1;Ökonomisches Problem;Economic Problem;Current account;Family budget survey
+1;Wirtschaft;Economics;Balance of payments;Cost of living index
+1;Knappheit;Scarcity;Relative prices;Moderate inflation
+1;Knappe Ressourcen;Scarce Resources;Exchange rate;Creeping inflation
+1;Ökonomische Resourcen;Economic Resources;Foreign trade multiplier;Galloping inflation
+1;Ressourcenzuweisung;Recourses Allocation;Open economy multiplier;Hype-inflation
+1;Wünsche oder Bedürfnisse;Wants or Needs;Marginal propensity to import;Demand pull inflation
+1;Kostenlose Ressourcen;Free Resources;Inflation;Cost push inflation
+1;Humanressourcen;Human Resources;Unemployment;Imported inflation
+1;Natürliche Ressourcen;Natural Resources;General price level;Fiscal deficit
+1;Organisation;Organization;Cost of living index;Structural unemployment
+1;Produktionsfaktoren;Factors of Production;Moderate inflation;Cyclical unemployment
+1;Makroökonomie;Macroeconomics;Creeping inflation;Seasonal unemployment
+1;Mikroökonomie;Microeconomics;Galloping inflation;Disguised unemployment
+1;Positive Ökonomie;Positive Economics;Hype-inflation;Open unemployment
+1;Normative Ökonomie;Normative Economics;Demand pull inflation;Behavioral unemployment
+1;Ökonometrie;Econometrics;Imported inflation;Trade-off
+1;Einkommen;Income;Fiscal deficit;Philips curve
+1;Reichtum;Wealth;Unemployment rate;Stagflation
+1;Ökonomische Systeme;Economic Systems;Okuns law;Money
+1;Kapitalismus;Capitalism;Frictional unemployment;Banks
+1;Sozialismus;Socialism;Structural unemployment;Barter
+1;Ökonomisches Problem;Economic Problem;Cyclical unemployment;Commodity money
+1;Knappheit;Scarcity;Seasonal unemployment;Paper money
+1;Optimale Wahl;Optimal Choice;Disguised unemployment;Check
+1;Opportunitätskosten;Opportunity Cost;Open unemployment;Credit money
+1;Alternative;Alternative;Behavioral unemployment;Credit cards
+1;Abtausch;Trade-Off;Imported unemployment;Medium of exchange
+1;Leistungen;Benefits;Trade-off;Unit of account
+1;Zuweisung von Ressourcen;Allocation of Resources;Philips curve;Store of value
+1;Produktionsmöglichkeiten Kurve;Production Possibilities Curve;Stagflation;Money supply
+1;Vollbeschäftigung;Full Employment;Money;Money in circulation
+1;Effizienz;Efficiency;Banks;Demand deposits
+1;Arbeitslose Ressourcen;Unemployed Resources;Barter;Time deposits
+1;Verbrauchsgüter;Consumption Goods;Commodity money;Saving accounts
+1;Kapitalgüter;Capital Goods;Paper money;Assets
+1;Gesetz der steigenden Kosten;Law of Increasing Cost;Check;Liabilities
+2;Homogene Ware;Homogeneous Goods;Credit money;Central bank
+2;Arbeitsteilung;Division of Labor;Credit cards;Reserves policy
+2;Vergleichsvorteil;Comparative Advantage;Medium of exchange;Money multiplier
+2;Markt;Market;Unit of account;Banking system
+2;Anforderung;Demand;Store of value;Monetary policy
+2;Liefern;Supply;Money supply;Central bank of Jordan
+2;Marktpreis;Market Price;Money in circulation;Monetary instruments
+2;Verkäufer;Seller;Demand deposits;General instruments
+2;Käufer;Buyer;Time deposits;Selective instruments
+2;Anzahl gefordert;Quantity Demanded;Saving accounts;Open market operations
+2;Das Gesetz der Nachfrage;The Law of Demand;Assets;Discount mechanism
+2;Geforderter Zeitplan;Demand Schedule;Liabilities;Reserves policy
+2;Nachfragekurve;Demand curve;Central bank;Contractionary policy
+2;Vorlieben;Preferences;Reserves policy;Expansionary policy
+2;Größe des Marktes;Size of the Market;Money multiplier;Treasury bills
+2;Einkommen;Income;Banking system;Excess reserves
+2;Erwartungen;Expectations;Monetary policy;Credit control
+2;Normale Güter;Normal Goods;Central bank of Jordan;Credit ceilings
+2;Minderwertige Waren;Inferior Goods;Monetary instruments;Foreign assets control
+2;Ersatzgüter;Substitute Goods;General instruments;Fiscal policy
+2;Komplementärgüter;Complementary Goods;Selective instruments;Public finance
+2;Abgeleitete Nachfrage;Derived Demand;Open market operations (OMO);Full employment
+2;Angebotskurve;Supply Curve;Discount mechanism;Sustainable growth
+2;Das Gesetz der Versorgung;The Law of Supply;Reserves policy;Prices stability
+2;Produktionskosten;Costs of Production;Contractionary policy;Economic welfare
+2;Steuern;Taxes;Expansionary policy;Government budget
+2;Staatliche Beschränkungen;Government Regulations;Treasury bills;Fiscal deficit
+2;Subvention;Subsidy;Excess reserves;Fiscal surplus
+2;Marktgleichgewicht;Market Equilibrium;Credit control;Real income
+2;Überangebot;Excess Supply;Credit ceilings;Family budget survey
+2;Überforderung;Excess Demand;Foreign assets control;Cost of living index
+2;Marktkräfte;Market Forces;Fiscal policy;Moderate inflation
+2;Schwarzmarkt;Black Market;Public finance;Creeping inflation
+2;Gleichgewichtspreis;Equilibrium Price;Full employment;Galloping inflation
+2;Gleichgewichtsmenge;Equilibrium quantity;Sustainable growth;Hype-inflation
+2;Preisuntergrenze;Price floor;Prices stability;Demand pull inflation
+2;Preisobergrenze;Price ceiling;Economic welfare;Cost push inflation
+2;Arbeitslosigkeit;Unemployment;Government budget;Imported inflation
+2;Konsumrationierung;Consumption rationing;Fiscal deficit;Fiscal deficit
+2;Bruttoinlandsprodukt;Gross domestic product;Fiscal surplus;Unemployment rate
+2;Gesamtnachfrage;Aggregate demand;Balanced budget;Okuns law
+3;Gesamtangebot;Aggregate supply;Public debt;Frictional unemployment
+3;Allgemeines Preisniveau;General price level;Government revenues;Structural unemployment
+3;Halbfertigware;Inter mediate goods;Direct taxes;Cyclical unemployment
+3;Finale Güter;Final goods;Current expenditures;Seasonal unemployment
+3;Bruttosozialprodukt;Gross national product;Capital expenditures;Disguised unemployment
+3;Wert hinzugefügt;Value added;Automatic instruments;Open unemployment
+3;Reales BIP;Real GDP;employee;Behavioral unemployment
+3;BIP-Deflator;GDP Deflator;Behavior employement;Imported unemployment
+3;Haushalte;Households;Globalization;Trade-off
+3;Abschreibungen;Depreciation;Economic Problem;Philips curve
+3;Indirekte Steuer;Indirect taxes;Economics;Stagflation
+3;Direkte Steuern;Direct taxes;Scarcity;Money
+3;Einkommenssteuer;Income taxes;Scarce Resources;Banks
+3;Einbehaltene Profite;Retained profits;Economic Resources;Barter
+3;Gesamtnachfrage;Aggregate Demand;Recourses Allocation;Commodity money
+3;Gesamtangebot;Aggregate supply;Wants or Needs;Paper money
+3;Relativer Preis;Relative price;Free Resources;Check
+3;Richtlinienvariablen;Policy variables;Human Resources;Credit money
+3;Externe Erschütterungen;External shocks;Natural Resources;Credit cards
+3;Geldpolitik;Monetary policy;Depreciation;Medium of exchange
+3;Fiskalpolitik;Fiscal policy;Indirect taxes;Unit of account
+3;Vollbeschäftigung;Full employment;Direct taxes;Store of value
+3;Says Gesetz;Say’s law;Income taxes;Money supply
+3;Potenzielle Leistung;Potential output;Retained profits;Money in circulation
+3;Verbrauch;Consumption;Macroeconomics;Demand deposits
+3;Sparen;Saving;Microeconomics;Time deposits
+3;Privater Konsum;Private consumption;Positive Economics;Saving accounts
+3;Öffentlicher Konsum;Public consumption;Normative Economics;Assets
+3;Langlebige Güter;Durable goods;Mathematical Economics;Liabilities
+3;Verbrauchsgüter;Non-durable goods;Econometrics;Central bank
+3;Dienstleistungen;Services;Income;Reserves policy
+3;Autonomer Verbrauch;Autonomous consumption;Wealth;Money multiplier
+3;Entsparen;Dissaving;Economic Systems;Banking system
+3;Kosten gleich Gewinn;Break-even point;Capitalism;Monetary policy
+3;Induzierter Konsum;Induced consumption;Socialism;Central bank of Jordan
+3;Verbrauchsfunktion;Consumption function;Economic Problem;Monetary instruments
+3;Speicherfunktion;Saving function;Scarcity;General instruments
+3;Marginale Konsumneigung;Marginal propensity to consume;Optimal Choice;Selective instruments
+3;Geringfügige Sparneigung;Marginal propensity to save;Opportunity Cost;Open market operations (OMO)
+3;Durchschnittliche Konsumneigung;Average propensity to consume;Alternative;Discount mechanism
+3;Durchschnittliche Sparneigung;Average propensity to save;Trade-Off;Reserves policy
+3;Investition;Investment;Benefits;Contractionary policy
+3;Anlageinvestitionen;Fixed capital formation;Allocation of Resources;Expansionary policy

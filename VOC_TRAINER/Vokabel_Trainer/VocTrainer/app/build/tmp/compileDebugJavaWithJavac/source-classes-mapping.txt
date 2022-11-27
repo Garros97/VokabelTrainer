@@ -1,0 +1,63 @@
+com/voctrainer/Vocabulary.java
+ com.voctrainer.Vocabulary
+com/voctrainer/databinding/ActivityGui6VocabularyViewBinding.java
+ com.voctrainer.databinding.ActivityGui6VocabularyViewBinding
+com/voctrainer/VocabularyList.java
+ com.voctrainer.VocabularyList
+com/voctrainer/Result.java
+ com.voctrainer.Result
+com/voctrainer/databinding/ActivityGui2MovingCounterBinding.java
+ com.voctrainer.databinding.ActivityGui2MovingCounterBinding
+com/voctrainer/Quiz.java
+ com.voctrainer.Quiz
+ com.voctrainer.Quiz$1
+com/voctrainer/LevelSelection.java
+ com.voctrainer.LevelSelection
+com/voctrainer/databinding/ActivityGui3ViewStepsBinding.java
+ com.voctrainer.databinding.ActivityGui3ViewStepsBinding
+com/voctrainer/databinding/ActivityMainBinding.java
+ com.voctrainer.databinding.ActivityMainBinding
+com/voctrainer/BuildConfig.java
+ com.voctrainer.BuildConfig
+com/voctrainer/Correction.java
+ com.voctrainer.Correction
+com/voctrainer/GeoMap.java
+ com.voctrainer.GeoMap
+ com.voctrainer.GeoMap$1
+ com.voctrainer.GeoMap$2
+ com.voctrainer.GeoMap$3
+com/voctrainer/databinding/ActivityGui14CongratulationBinding.java
+ com.voctrainer.databinding.ActivityGui14CongratulationBinding
+com/voctrainer/MainActivity.java
+ com.voctrainer.MainActivity
+ com.voctrainer.MainActivity$1
+ com.voctrainer.MainActivity$2
+com/voctrainer/databinding/ActivityGui5LevelSelectionBinding.java
+ com.voctrainer.databinding.ActivityGui5LevelSelectionBinding
+com/voctrainer/databinding/ActivityGui15CorrectionBinding.java
+ com.voctrainer.databinding.ActivityGui15CorrectionBinding
+com/voctrainer/Help.java
+ com.voctrainer.Help
+com/voctrainer/databinding/ActivityGui9ProgressViewBinding.java
+ com.voctrainer.databinding.ActivityGui9ProgressViewBinding
+com/voctrainer/MovingCounter.java
+ com.voctrainer.MovingCounter
+com/voctrainer/ViewSteps.java
+ com.voctrainer.ViewSteps
+ com.voctrainer.ViewSteps$1
+ com.voctrainer.ViewSteps$2
+com/voctrainer/databinding/ActivityGui4GeoMapBinding.java
+ com.voctrainer.databinding.ActivityGui4GeoMapBinding
+com/voctrainer/Congratulation.java
+ com.voctrainer.Congratulation
+com/voctrainer/ProgressView.java
+ com.voctrainer.ProgressView
+ com.voctrainer.ProgressView$1
+com/voctrainer/databinding/ActivityGui1aHelpBinding.java
+ com.voctrainer.databinding.ActivityGui1aHelpBinding
+com/voctrainer/databinding/ActivityGui10QuizBinding.java
+ com.voctrainer.databinding.ActivityGui10QuizBinding
+com/voctrainer/VocabularyView.java
+ com.voctrainer.VocabularyView
+com/voctrainer/databinding/ActivityGui13ResultBinding.java
+ com.voctrainer.databinding.ActivityGui13ResultBinding

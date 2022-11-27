@@ -1,0 +1,115 @@
+0;vocabulary;correct;wrong1;wrong2
+1;System;System;Optimization;(JIT) Just In Time Compiling
+1;Betriebssystem;Operating System;Versioning;Resource Files
+1;Hexadezimal;Hexadecimal;Web Services;Identifiers
+1;Festplattenbetrieb;Disk Operating;hard drive company;paper-tape reader 
+1;System;System;Threading;paper-tape reader 
+1;Ordner;Folder;CLR-Common Language Runtime;paper-tape reader 
+1;Linux;Linux;Memory Management;paper-tape reader 
+1;Betriebssystem Macintosh;OS Macintosh;Just In Time Compiling;paper-tape reader 
+1;Unix;Unix;Resource Files;paper-tape reader 
+1;Datei;File;Debugging;paper-tape reader 
+1;Formattyp;Format Type;paper-tape reader ;paper-tape reader 
+1;Schriftart;Font;power-supply circuit;paper-tape reader 
+1;oi;oi;power transformer;file
+1;Grafischer Benutzer;Graphical User;power transistor;Text
+1;Zentrale Bearbeitung;Central Processing;simultaneous computer ;Endless loop
+1;Einheit;Unit;target computer;Hexadecimal
+1;Blatt;Sheet;transportable microcomputer;Disk Operating
+1;Arbeitsblatt;Worksheet;Unit;Machine language 
+1;automatischer Locher ;automatic punch ;Graphical User;Token
+1;Zusatzspeicher ;auxiliary storage ;Sheet;Endless loop
+1;Rückwand ;backplane ;Folder;Keywords
+1;Ausweisleser ;badge reader ;Worksheet;drivers
+1;Barcode-Leser;bar code reader ;automatic punch ;devices
+1;Algorithmus;Algorithm;backplane ;Move to
+1;Streit;Argument;bar code reader ;Format Type
+1;Insekt;Bug;Algorithm;Font
+2;Zusammenstellung;Compilation;Argument;Graphical User
+2;Bedingungen;Conditions;Boolean;Interface
+2;Konstanten;Constants;Bug;Algorithm
+2;Rahmen;Framework ;Code;Application
+2;Hardcode;Hardcode;Compilation;Argument
+2;Schleife;Loop ;Conditionals;Boolean
+2;Variable;Variable ;Constants;Unit
+2;Operand Programmiersprache;Operand Programming language;Framework ;Bug
+2;Maschinensprache;Machine language ;Hardcode;Code
+2;Zeichen;Token;Loop ;Compilation
+2;Endlosschleife;Endless loop;Variable ;Conditionals
+2;Schlüsselwörter;Keywords;Operand Programming language;Constants
+2;Fahrer;drivers;Machine language ;Framework 
+2;Geräte;devices;Token;Hardcode
+2;(OLE) - Objektverknüpfung und Einbettung;(OLE) - Object Linking & Embedding;Endless loop;Loop 
+2;Dynamischer Datenaustausch;(DDE) - Dynamic Data Exchange;Keywords;Variable 
+2;(COM) - Komponentenobjektmodell;(COM) - Component Object Model;drivers;Operand Programming language
+2;Verteiltes COM;(DCOM) - Distributed COM;devices;Algorithm
+2;Systemressourcen;System Resources;(OLE) - Object Linking & Embedding;Application
+2;Schnittstellen;Interfaces;(DDE) - Dynamic Data Exchange;Argument
+2;Windows-Registrierung;Windows Registry;(COM) - Component Object Model;Boolean
+2;Aktive Serverseiten;.(ASP) - Active Server Pages;(DCOM) - Distributed COM;Bug
+2;VBScript;VBScript;System Resources;Code
+2;Optimierung;Optimization;Interfaces;Compilation
+2;Nachlass;Inheritance;Windows Registry;Conditionals
+2;Versionierung;Versioning;.(ASP) - Active Server Pages;Constants
+2;Zeiger;Pointers;VBScript;Framework 
+2;Internetdienste;Web Services;Optimization;Hardcode
+2;Spiegelung;Mirroring;Inheritance;Loop 
+2;Eingabe und Ausgabe;input and output;inside and outside;interrupts
+2;Einfädeln;Threading;Pointers;Operand Programming language
+2;CLR – Common Language Runtime;CLR – Common Language Runtime;Web Services;Machine language 
+2;Speicherverwaltung;Memory Management;Mirroring;Token
+2;Müllabfuhr;Garbage Collection;I and O File Processing;Endless loop
+2;(JIT) - Just-In-Time-Kompilierung;(JIT) - Just In Time Compiling;Threading;Keywords
+2;Baugruppen;Assemblies;CLR – Common Language Runtime;drivers
+2;Ressourcendateien;Resource Files;Memory Management;devices
+2;Debuggen;Debugging;Garbage Collection;(OLE) - Object Linking & Embedding
+3;Identifikatoren;Identifiers;(JIT) - Just In Time Compiling;(DDE) - Dynamic Data Exchange
+3;Papier Klebeband;paper-tape;Assemblies;(COM) - Component Object Model
+3;Papierbandleser;paper-tape reader;Resource Files;(DCOM) - Distributed COM
+3;Verarbeitungsbereich;processing section;Debugging;System Resources
+3;Stromversorgungskreis ;power-supply circuit;Identifiers;Interfaces
+3;programmierbare Steuerung ;programable controller;processing section ;(OLE) - Object Linking & Embedding
+3;Auslesegerät ;readout device;power-supply circuit;(DDE) - Dynamic Data Exchange
+3;Satellitenrechner ;satellite computer;power transformer;(COM) - Component Object Model
+3;seriell-paralleles Gerät;serial-parallel device;power transistor ;(DCOM) - Distributed COM
+3;simultaner Computer ;simultaneous computer;programable controller;System Resources
+3;Zielrechner;target computer;readout device;Interfaces
+3;Entfernungsmesser;telemeter;satellite computer;Windows Registry
+3;transportabler Mikrocomputer ;transportable microcomputer;serial-parallel device;.(ASP) - Active Server Pages
+3;universell asynchron ;universal asynchronous ;simultaneous computer;VBScript
+3;Text;Text;telemeter;Inheritance
+3;System;System;universal asynchronous ;Pointers
+3;Betriebssystem;Operating System;Text;Mirroring
+3;Hexadezimal;Hexadecimal;System;Threading
+3;Festplattenbetrieb;Disk Operating;Operating System;Memory Management
+3;Betriebssystem Macintosh;OS Macintosh;System;Debugging
+3;Unix;Unix;Linux;paper-tape
+3;Formattyp;Format Type;Unix;power transformer 
+3;Schriftart;Font;Move to;Compilation
+3;Grafischer Benutzer;Graphical User;Format Type;Constants
+3;Schnittstelle;Interface;System Resources;Framework 
+3;Energieversorgung;Power Supply;Framework ;Loop 
+3;Zentrale Bearbeitung;Central Processing;Interface;Operand Programming language
+3;Arbeitsblatt;Worksheet;Unit;Bug
+3;automatischer Locher;automatic punch; Constants;Code
+3;Zusatzspeicher ;auxiliary storage ;Framework ;Compilation
+3;Rückwand ;backplane ;Hardcode;Conditionals
+3;Ausweisleser ;badge reader ;Loop ;Constants
+3;Barcode-Leser;bar code reader ;Variable ;Framework 
+3;Programm;Program;Operand Programming language;Hardcode
+3;Algorithmus;Algorithm;for;Loop 
+3;Anwendung;Application;desk;Variable 
+3;Zusammenstellung;Compilation;Versioning;Inheritance
+3;Bedingungen;Conditionals;Operand Programming language;Versioning
+3;Konstanten;Constants;Machine language ;Pointers
+3;Rahmen;Framework ;Token;Web Services
+3;Hardcode;Hardcode;Endless loop;Mirroring
+3;Schleife;Loop ;Keywords;I-O File Processing
+3;Variable;Variable ;drivers;Threading
+3;Operand Programmiersprache;Operand Programming language;devices;(CLR) – Common Language Runtime
+3;Maschinensprache;Machine language ;(OLE) - Object Linking & Embedding;Memory Management
+3;Zeichen;Token;(DDE) - Dynamic Data Exchange;Garbage Collection
+3;Endlosschleife;Endless loop;(COM) - Component Object Model;(JIT) - Just In Time Compiling
+3;Schlüsselwörter;Keywords;(DCOM) - Distributed COM;Assemblies
+3;Debuggen;Debugging;Resource Files;Constants
+3;Fahrer;drivers;System Resources;Resource Files

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PROJEKTE/VOC_TRAINER/Vokabel_Trainer/VocTrainer/app/src/main/res/layout/activity_gui_15_correction.xml" value="0.2006340579710145" />
+        <entry key="..\:/PROJEKTE/VOC_TRAINER/Vokabel_Trainer/VocTrainer/app/src/main/res/layout/activity_main.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/LUH Projects/VocTrainerRepo/VocTrainer/app/src/main/res/drawable/button_bg_round.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/LUH Projects/VocTrainerRepo/VocTrainer/app/src/main/res/drawable/button_bg_round_unclickable.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/LUH Projects/VocTrainerRepo/VocTrainer/app/src/main/res/layout/activity_gui13_result.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/LUH Projects/VocTrainerRepo/VocTrainer/app/src/main/res/layout/activity_gui3_view_steps.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/LUH Projects/VocTrainerRepo/VocTrainer/app/src/main/res/layout/activity_gui4_geo_map.xml" value="0.264" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/LUH Projects/VocTrainerRepo/VocTrainer/app/src/main/res/layout/activity_gui5_level_selection.xml" value="0.4" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/LUH Projects/VocTrainerRepo/VocTrainer/app/src/main/res/layout/activity_gui6_vocabulary_view.xml" value="0.264" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/LUH Projects/VocTrainerRepo/VocTrainer/app/src/main/res/layout/activity_gui9_progress_view.xml" value="0.22644927536231885" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/LUH Projects/VocTrainerRepo/VocTrainer/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/LUH Projects/VocTrainerRepo/VocTrainer/app/src/main/res/layout/activity_maps.xml" value="0.23550724637681159" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/Mobile Interaction Design/VocTrainerRepository/VocTrainer/app/src/main/res/drawable/button_bg_center.xml" value="0.2515625" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/Mobile Interaction Design/VocTrainerRepository/VocTrainer/app/src/main/res/drawable/button_bg_round.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/Mobile Interaction Design/VocTrainerRepository/VocTrainer/app/src/main/res/drawable/button_bg_round_unclickable.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/Mobile Interaction Design/VocTrainerRepository/VocTrainer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.234375" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/Mobile Interaction Design/VocTrainerRepository/VocTrainer/app/src/main/res/layout/activity_gui10_quiz.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/Mobile Interaction Design/VocTrainerRepository/VocTrainer/app/src/main/res/layout/activity_gui13_result.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/Mobile Interaction Design/VocTrainerRepository/VocTrainer/app/src/main/res/layout/activity_gui14_congratulation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/Mobile Interaction Design/VocTrainerRepository/VocTrainer/app/src/main/res/layout/activity_gui1a_help.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/Mobile Interaction Design/VocTrainerRepository/VocTrainer/app/src/main/res/layout/activity_gui2_moving_counter.xml" value="0.264" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/Mobile Interaction Design/VocTrainerRepository/VocTrainer/app/src/main/res/layout/activity_gui3_view_steps.xml" value="0.264" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/Mobile Interaction Design/VocTrainerRepository/VocTrainer/app/src/main/res/layout/activity_gui4_geo_map.xml" value="0.4" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/Mobile Interaction Design/VocTrainerRepository/VocTrainer/app/src/main/res/layout/activity_gui5_level_selection.xml" value="0.264" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/Mobile Interaction Design/VocTrainerRepository/VocTrainer/app/src/main/res/layout/activity_gui6_vocabulary_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/Mobile Interaction Design/VocTrainerRepository/VocTrainer/app/src/main/res/layout/activity_gui9_progress_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/Mobile Interaction Design/VocTrainerRepository/VocTrainer/app/src/main/res/layout/activity_gui_15_correction.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/Mobile Interaction Design/VocTrainerRepository/VocTrainer/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Fabstar/AndroidStudioProjects/Mobile Interaction Design/VocTrainerRepository/VocTrainer/app/src/main/res/layout/activity_maps.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
